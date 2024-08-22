@@ -1,0 +1,11 @@
+RESTFUL API-JSON
+
+GET /enterprise - enterprise details HTML document
+
+GET /api/enterprise - enterprise details
+GET /api/enterprise/1/ - enterprise 1 details
+GET /api/enterprise/1/logo -enterprise 1 logo 
+
+POST /api/enterprise - crete new enterprise
+
+PATCH/api/enterprise/1- Edit
